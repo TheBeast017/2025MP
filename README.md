@@ -1,4 +1,4 @@
-# 2025MP
+The Health Intel Hub
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/TheBeast017/2025MP)
 
@@ -26,7 +26,7 @@ Health blog and articles
 bash
 Copy
 Edit
-git clone https://github.com/TheBeast017/Finally-.git
+git clone https://github.com/TheBeast017/2025MP.git
 cd Finally-
 ⿢ Install dependencies (if required)
 bash
@@ -41,4 +41,9 @@ npm start
 (Or mention how to open the index.html file in a browser.)
 
 🖼 Screenshots
-Add images to showcase the UI.
+![image](https://github.com/user-attachments/assets/1f3d13cd-aaf9-449c-a750-658dad79f8ff)
+![Screenshot 2025-02-07 142923](https://github.com/user-attachments/assets/16b30024-63a7-4781-9563-cc67028a2d0c)
+![Screenshot 2025-02-07 142923](https://github.com/user-attachments/assets/c57ccdb9-b662-4e34-ad76-63d55ba6e1e7)
+
+
+
