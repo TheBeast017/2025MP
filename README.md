@@ -1,7 +1,5 @@
 The Health Intel Hub
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/TheBeast017/2025MP)
-
 📌 Project Description
 Provide a brief overview of what this project does. Example:
 "Finally- is a healthcare web application that allows users to book appointments, check symptoms, and access medical resources online."
